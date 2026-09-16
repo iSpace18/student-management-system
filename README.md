@@ -139,6 +139,6 @@ STUDENTS_DB_V1
 
 ## 👤 Автор
 
-**Ваше Имя**
-- GitHub: [@username](https://github.com/username)
-- Email: your.email@example.com
+**Shahnazaryan David**
+- GitHub: [@username](https://github.com/iSpace18/)
+- Email: steamdavid2007@gmail.com
